@@ -1,0 +1,4 @@
+S	1	Al	Manager	60000
+H	3	Kelly	Hostess	25.75
+S	2	Peggy	CEO	120000
+H	4	Bud	Busboy	15.00
